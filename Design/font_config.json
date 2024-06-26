@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "font_name": "Alexandria-ExtraLight.ttf",
+        "font_size": 48
+    },
+    {
+        "id": 2,
+        "font_name": "Alexandria-Bold.ttf",
+        "font_size": 48
+    },
+    {
+        "id": 3,
+        "font_name": "Alexandria-Light.ttf",
+        "font_size": 48
+    }
+]
